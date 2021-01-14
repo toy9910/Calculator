@@ -81,7 +81,6 @@ class CalculatorFragment : Fragment(), View.OnClickListener {
                 "+" -> {
 <<<<<<< HEAD
 =======
-                    Log.e("TEST", "hello!!!!")
 >>>>>>> d7b0ceb (제곱 기능 추가)
                     val result = operand1 + operand2
                     stack.push(result.toString())
