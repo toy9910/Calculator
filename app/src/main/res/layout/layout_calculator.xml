@@ -287,22 +287,13 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-<<<<<<< HEAD
-        android:id="@+id/button6"
-        android:onClick="onClick"
-=======
         android:id="@+id/btn_square"
->>>>>>> d7b0ceb (제곱 기능 추가)
         android:layout_width="90dp"
         android:layout_height="85dp"
         android:layout_marginStart="10dp"
         android:layout_marginLeft="10dp"
-<<<<<<< HEAD
-        android:text="()"
-=======
         android:onClick="onClick"
         android:text="^"
->>>>>>> d7b0ceb (제곱 기능 추가)
         android:textColor="#000000"
         android:textSize="30sp"
         app:backgroundTint="#E6E6E6"
@@ -325,11 +316,7 @@
         app:iconSize="38sp"
         app:iconTint="#5060BA"
         app:layout_constraintBottom_toTopOf="@+id/btn_9"
-<<<<<<< HEAD
-        app:layout_constraintStart_toEndOf="@+id/button6" />
-=======
         app:layout_constraintStart_toEndOf="@+id/btn_square" />
->>>>>>> d7b0ceb (제곱 기능 추가)
 
     <Button
         android:id="@+id/btn_divide"
